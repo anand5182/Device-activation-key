@@ -10,14 +10,9 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
+    },         
+    {  
         "device_id": "ceaa4a53e460fdc4",
-        "keyirydateirydate": "ssa123",
-        "expirydate": "27-10-2025",
-        "Allowoffline": false             
-    },   
-     "device_id": "ceaa4a53e460fdc4",
         "key": "ssa123",
         "expirydate": "28-10-2025",
         "Allowoffline": true
