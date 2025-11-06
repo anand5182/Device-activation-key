@@ -16,6 +16,12 @@
         "key": "ssa123",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c4e67a9aaba640ff",
+        "key": "sma123",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
     
 ]
