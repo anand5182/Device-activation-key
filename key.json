@@ -36,8 +36,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "38ccc4d4a94013ad",
+        "device_id": "cd2e46a6c8339bdd",
         "key": "ssa999",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "38ccc4d4a94013ad",
+        "key": "ssa888",
         "expirydate": "31-12-2026",
         "Allowoffline": false
     }
