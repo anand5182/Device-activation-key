@@ -67,13 +67,13 @@
     },
     {
         "device_id": "ce9bbe9774135a6b",
-        "key": "ssa432",
+        "key": "ssa543",
         "expirydate": "31-12-2026",
         "Allowoffline": false
     },
      {
         "device_id": "245c979fd5b42aae",
-        "key": "ssa543",
+        "key": "ssa432",
         "expirydate": "31-12-2026",
         "Allowoffline": false
      }
