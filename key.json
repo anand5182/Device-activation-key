@@ -76,5 +76,11 @@
         "key": "ssa432",
         "expirydate": "31-12-2026",
         "Allowoffline": false
+     },
+    {
+        "device_id": "f40305a717ff0295",
+        "key": "ssa975",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
      }
 ]
