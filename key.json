@@ -14,79 +14,79 @@
     {
         "device_id": "ceaa4a53e460fdc4",
         "key": "sma123",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "90c8dd32344adf88",
         "key": "ssa123",
-        "expirydate": "31-12-2025",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "c4e67a9aaba640ff",
         "key": "sma876",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "a9ab6162be32f1e6",
         "key": "ssa456",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "cd2e46a6c8339bdd",
         "key": "ssa999",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "38ccc4d4a94013ad",
         "key": "ssa888",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "7e5b38bae09104dc",
         "key": "ssa345",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "0ae92007ec3929d3",
         "key": "ssa789",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "cc64e5eb45060166",
         "key": "ssa654",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
     {
         "device_id": "ce9bbe9774135a6b",
         "key": "ssa543",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
     },
      {
         "device_id": "245c979fd5b42aae",
         "key": "ssa432",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
      },
     {
         "device_id": "f40305a717ff0295",
         "key": "ssa975",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
      },
     {
         "device_id": "1f12269eef417cb8",
         "key": "ssa976",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2027",
         "Allowoffline": false
      }
 ]
